@@ -1,0 +1,1 @@
+web: gunicorn INSERT_PROJECT_NAME_HERE.wsgi
